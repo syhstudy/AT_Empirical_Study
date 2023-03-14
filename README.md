@@ -6,3 +6,6 @@ normPDG has the advantage of  using $L_1$ normalization to reduce the effect of 
 Therefore, normPDG can improve the stability of the normalization process while retaining the advantages of $L_1$ and $L_2$ normalization.
 
 The experimental results in this paper can verify the feasibility of normPDG:
+![image](https://user-images.githubusercontent.com/93321396/224938336-42ca251f-11d9-4495-80ac-8ab470c7cd3a.png)
+
+Specifically, compared with the PDG, normPDG can improve the performance by 5.01\%, 5.67\%, 2.76\%, and 2.99\% for BLEU-3, BLEU-4, METEOR, and ROUGE-L respectively.
